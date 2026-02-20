@@ -1,5 +1,5 @@
 // js code start:
-// ------------------------------------------------------------------>
+// ---------------------------------------------------------->
 
 // Theme Switcher
 const themeOptions = document.querySelectorAll(".theme-option");
@@ -129,4 +129,4 @@ document.querySelector(".slider-btn.prev").addEventListener("click", () => {
   updateTestimonial();
 });
 
-// js end --------->
+// js end
